@@ -1,0 +1,25 @@
+{
+<<<<<<< 23af70b5083e01b103af924d07fc2de6b8cb9581
+  "name": "test_pos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jasmine": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+=======
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+>>>>>>> 11
+}

@@ -1,0 +1,15 @@
+{
+<<<<<<< 23af70b5083e01b103af924d07fc2de6b8cb9581
+  "spec_dir": "spec",
+=======
+  "spec_dir": "specs",
+>>>>>>> 11
+  "spec_files": [
+    "**/*[sS]pec.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
